@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "mobile-basics-ts",
   "version": "1.0.0",
   "main": "index.js",
@@ -18,5 +19,14 @@
   },
   "devDependencies": {
     "@types/prompt-sync": "^4.2.3"
+=======
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+>>>>>>> 4bd3e38704ea7335ae4055bafbfbaf94075e1f5f
   }
 }

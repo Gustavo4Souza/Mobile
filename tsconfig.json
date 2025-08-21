@@ -35,7 +35,11 @@
     // Recommended Options
     "strict": true,
     "jsx": "react-jsx",
+<<<<<<< HEAD
     "verbatimModuleSyntax": false,
+=======
+    "verbatimModuleSyntax": true,
+>>>>>>> 4bd3e38704ea7335ae4055bafbfbaf94075e1f5f
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
