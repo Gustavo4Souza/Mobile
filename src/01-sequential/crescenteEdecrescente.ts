@@ -17,4 +17,4 @@ while (x != y) {
   y = Number(prompt(""));
 }
 
-console.log("numeoros iguais");
+console.log("numeros iguais");
